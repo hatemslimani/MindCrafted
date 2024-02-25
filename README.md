@@ -156,7 +156,6 @@ Une plateforme web moderne de gestion d'examens en ligne développée avec Larav
 - MySQL 5.7+
 - Laravel 8.x
 - Navigateur web moderne
-
 ## Installation
 
 1. Cloner le dépôt
