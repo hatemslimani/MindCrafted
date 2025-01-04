@@ -9,19 +9,19 @@ Une plateforme web moderne de gestion d'examens en ligne développée avec Larav
 
 ### interface commune
 
-![Home](/screenshots/home.png)
+![Home](/screenshots/Home.png)
 - Interface d'accueil
 
-![Login](/screenshots/login.png)
+![Login](/screenshots/Login.png)
 - Interface de connexion
 
-![Register](/screenshots/register.png)
+![Register](/screenshots/Register.png)
 - Interface d'inscription
 
 ![Profile](/screenshots/profile.png)
 - Interface de profil
 
-![Reset-password](/screenshots/reset-password.png)
+![Reset-password](/screenshots/Reset-password.png)
 - Interface de réinitialisation de mot de passe
 
 ![404](/screenshots/404.png)
@@ -50,7 +50,7 @@ Une plateforme web moderne de gestion d'examens en ligne développée avec Larav
 ![Modifier groupe](/screenshots/admin/modifier_groupe.png)
 - Interface Modifier un groupe
 
-![Informations du groupe](/screenshots/admin/informations_du_groupe.png)
+![Informations du groupe](/screenshots/admin/Informations_du_groupe.png)
 - Interface Informations du groupe
 
 ![Ajouter etudiant](/screenshots/admin/ajouter_etudiant.png)
